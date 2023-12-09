@@ -36,6 +36,8 @@ App Idea: iClicker for class attendance on phone. A lot of universities require 
 This is a waste of money and is not environmentally responsible, as many people only use the iClicker for one class.
 Having an app on the phone, registered with the class's database, students can use the app to check in without having to buy an iClicker device.
 
+App Idea 2: secret closet for non-binary people who may have to switch between gender modes. This closet stores sizes in male and female clothings and may suggest sizes for new brands. This app requires a PIN to open to protect privacy of users.
+
 
 ## Notes
 
